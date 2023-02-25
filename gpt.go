@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	GptToken = "xxx"
+	GptToken = "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"
 )
 
 func init() {

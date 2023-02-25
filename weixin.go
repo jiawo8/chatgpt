@@ -12,7 +12,7 @@ import (
 const (
 	AppID          = "wx8375ef3da3481b01"
 	AppSecret      = "5e83b0c44757577a106d001c04bc9ebb"
-	Token          = "weiphp1127"
+	Token          = "weiphp"
 	EncodingAESKey = "P7aNQnLEFj8jEvMCYpujG2FYzpRxxO3rpMwHYhWt68L"
 )
 
